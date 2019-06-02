@@ -1,2 +1,2 @@
-# firt-repository
+# first-repository
 hai
